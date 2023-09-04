@@ -163,11 +163,6 @@ Network URL: http://192.168.1.2:8501
 ```
 
 ### Team
-<a href="https://github.com/Dinahussam/ITI-AI-Final-Project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Dinahussam/ITI-AI-Final-Project" />
-<!--   <img src="https://contrib.rocks/image?repo=Asalaehab/ITI-AI-Final-Project" />
-  <img src="https://contrib.rocks/image?repo=Mostafaali3/ITI-AI-Final-Project" /> -->
-</a>
 
 | Team Members' Names                                      | 
 | -------------------------------------------------------- | 

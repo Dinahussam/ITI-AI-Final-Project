@@ -28,7 +28,7 @@ The Web Application is built using:
 
 <p align="left">
 <!-- *Streamlit -->
-<a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="Icons/web-desktop/streamlit.svg" alt="tensorflow" width="120" height="40"/> </a>
+<a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="Images/Readme images/streamlit.svg" alt="tensorflow" width="120" height="40"/> </a>
 <!-- python -->
 <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="48px" width="48" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <!-- *SKlearn -->
@@ -38,11 +38,11 @@ The Web Application is built using:
 <!-- *Numpy -->
 <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="tensorflow" width="80" height="40"/> </a>
 <!-- *Matplotlib -->
-<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="Icons/visualization/matplot.png" alt="tensorflow" width="120" height="40"/> </a>
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="Images/Readme images/matplot.png" alt="tensorflow" width="120" height="40"/> </a>
 <!-- *seaborn -->
-<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="Icons/visualization/Seaborn.png" alt="tensorflow" width="120" height="40"/> </a>
+<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="Images/Readme images/Seaborn.png" alt="tensorflow" width="120" height="40"/> </a>
 <!-- *plotly -->
-<a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="Icons/visualization/plotly.png" alt="tensorflow" width="120" height="40"/> 
+<a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="Images/Readme images/plotly.png" alt="tensorflow" width="120" height="40"/> 
 </a>
 
 </p>

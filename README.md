@@ -156,7 +156,7 @@ pip install -r requirments.txt
 4. Start the Server by Running and writing in the terminal:
 
 ```
-streamlit run main.py
+streamlit run App/main.py
 ```
 
 5. Visit by clicking on the terminal result link:

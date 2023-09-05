@@ -1,0 +1,164 @@
+.logo{
+width:300px;
+height: 300px;
+margin-bottom:-100px;
+margin-top: -100px;
+margin-left: 78px;
+}
+
+.css-1avcm0n {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 2.875rem;
+    background: rgb(14, 17, 23);
+    outline: none;
+    z-index: 999990;
+    display: none;
+}
+
+[id="models"] {
+    margin-top: -5px;
+    font-size: 80px;
+    margin-left: 40px;
+    font-family: 'PT Serif', serif;
+}
+
+[id="choose-the-dataset"]{
+font-family: 'Rubik Iso', cursive;
+}
+
+[class="st-c7 st-be st-c8 st-c9 st-ca st-bg st-cb st-cc st-cd"]{
+font-family: 'Rubik Iso', cursive;
+}
+
+[class="css-1djdyxw ek41t0m0"]{
+font-family: 'Rubik Iso', cursive;
+}
+
+.css-k1vhr4 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: -120px;
+}
+
+.css-1ttvtez {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 2.875rem;
+    background: rgb(29, 97, 100);
+    outline: none;
+    z-index: 999990;
+    display: NONE;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    height:400px;
+    width: 500px;
+    border-radius: 5px;
+    margin-left:20px;
+}
+
+
+
+.st-ea {
+    background-color: rgb(104 48 48 / 0%);
+}
+
+[data-testid="stHorizontalBlockj"]{
+    background-color: darkcyan;
+}
+
+.css-2ykyy6 {
+    display: block;
+    color: rgba(250, 250, 250, 0.4);
+    flex: 0 1 0%;
+    font-size: 14px;
+    min-width: auto;
+    max-width: initial;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    padding-top: 1px;
+    background-color: black;
+}
+
+[data-testid="stAppViewContainer"] {
+    background: rgb(1,1,61);
+    background: linear-gradient(90deg, rgba(1,1,61,1) 0%, rgba(1,1,61,1) 34%, rgba(52,9,59,1) 64%, rgba(189,29,53,1) 100%);
+}
+
+
+.st-c6 {
+    padding-right: 0.5rem;
+    width: 1px;
+    background-color: #2781FF;
+}
+
+/**/
+.css-hxt7ib {
+    padding-top: 40px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+p, ol, ul, dl {
+    margin: 0px 0px 1rem;
+    padding: 0px;
+    font-size: 1rem;
+    font-weight: 400;
+    padding-top: - 10px;
+}
+
+
+.css-pmxsec .exg6vvm15 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+
+
+.css-9ycgxx {
+
+    margin-bottom: 0.25rem;
+}
+
+.css-7oyrr6 {
+    color: rgba(250, 250, 250, 0.6);
+    font-size: 14px;
+    line-height: 1.25;
+}
+
+.css-16u8z0w.edgvbvh9{
+    margin-top: 34px;
+}
+
+.css-18e3th9 {
+    flex: 1 1 0%;
+    width: 100%;
+    min-width: auto;
+    max-width: initial;
+    padding-top:5px;
+}
+
+.css-2ykyy6 {
+    display: block;
+    color: rgba(250, 250, 250, 0.4);
+    flex: 0 1 0%;
+    font-size: 14px;
+    min-width: auto;
+    max-width: initial;
+    /*padding: 0.5rem 1rem;*/
+    width: 100%;
+    padding-top:1px;
+}

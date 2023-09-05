@@ -4,9 +4,12 @@
 
 - [Introduction](#introduction)
 - [Project Features](#project-features)
+- [Project Demo](#project-demo)
 - [Project Structure](#project-structure)
 - [How to Run The Project](#run-the-project)
 - [Team](#team)
+
+<br>
 
 ### Introduction
 This website provides the user with the ability to see the accuracies of AI models and evaluation matrices of the 'Email Spam Detection Dataset', 'Document Classification Dataset', and 'Platform Price Prediction Dataset' datasets.
@@ -14,6 +17,7 @@ This website provides the user with the ability to see the accuracies of AI mode
 <img src="Images/Readme images/website.png" style="border-radius: 50%;" /> 
 </p>
 
+<br>
 
 ### Project Features
 1. Choose Dataset
@@ -40,6 +44,23 @@ This website provides the user with the ability to see the accuracies of AI mode
 <p align="center">
 <img src="Images/Readme images/show_ev.png" style="border-radius: 50%;" /> 
 </p>
+
+<br>
+
+### Project Demo
+<p align="center">
+<img src="Images/Readme images/demo1.gif" style="border-radius: 50%;" /> 
+</p>
+
+<p align="center">
+<img src="Images/Readme images/demo2.gif" style="border-radius: 50%;" /> 
+</p>
+
+<p align="center">
+<img src="Images/Readme images/demo3.gif" style="border-radius: 50%;" /> 
+</p>
+
+<br>
 
 ### Project Structure
 The Web Application is built using:
@@ -96,6 +117,8 @@ main
 │  └─  sarcasm.json
 └─ README.md
 ```
+
+<br>
 
 ### Run the Project
 
@@ -195,6 +218,8 @@ Local URL: http://localhost:8501
 Network URL: http://192.168.1.2:8501
 ```
 
+<br>
+
 ### Team
 
 | Team Members' Names                                      | 
@@ -202,6 +227,8 @@ Network URL: http://192.168.1.2:8501
 | [Dina Hussam](https://github.com/Dinahussam)             |   
 | [Asala Ehab](https://github.com/Asalaehab)               |    
 | [Mostafa Ali Abdulhalim](https://github.com/Mostafaali3) |     
+
+<br>
 
 ### Submitted to:
 

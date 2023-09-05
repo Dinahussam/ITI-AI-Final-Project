@@ -83,6 +83,9 @@ Download it from www.python.org/downloads/
 pip install streamlit
 ```
 ```
+pip install pybase64
+```
+```
 pip install numpy
 ```
 ```

@@ -10,18 +10,36 @@
 
 ### Introduction
 This website provides the user with the ability to see the accuracies of AI models and evaluation matrices of the 'Email Spam Detection Dataset', 'Document Classification Dataset', and 'Platform Price Prediction Dataset' datasets.
+<p align="center">
+<img src="Images/Readme images/website.png" style="border-radius: 50%;" /> 
+</p>
+
 
 ### Project Features
 1. Choose Dataset
-
+<p align="center">
+<img src="Images/Readme images/choose.png" style="border-radius: 50%;" /> 
+</p>
 2. Choose Models
-
-3. Choose Evaluation Matrices
-
-4. Show Accuracies of Models
-
-5. Show Evaluation Matrices of Models
-
+<p align="center">
+<img src="Images/Readme images/models.png" style="border-radius: 50%;" /> 
+</p>
+3. Choose Accuracy
+<p align="center">
+<img src="Images/Readme images/acc.png" style="border-radius: 50%;" /> 
+</p>
+4. Choose Evaluation Matrices
+<p align="center">
+<img src="Images/Readme images/ev.png" style="border-radius: 50%;" /> 
+</p>
+5. Show Accuracies of Models
+<p align="center">
+<img src="Images/Readme images/show_acc.png" style="border-radius: 50%;" /> 
+</p>
+6. Show Evaluation Matrices of Models
+<p align="center">
+<img src="Images/Readme images/show_ev.png" style="border-radius: 50%;" /> 
+</p>
 
 ### Project Structure
 The Web Application is built using:
@@ -57,7 +75,6 @@ The frontend it's main function is to set the structure of the page while the ba
 
 ```
 main
-├─ Notebooks Folder
 ├─ App Folder
 |  ├─  main.py
 │  ├─  datasets.py
@@ -67,12 +84,22 @@ main
 |  ├─  spam_ham_dataset.csv
 │  └─  sarcasm.json
 ├─ Images Folder
+├─ App Folder
+|  ├─  App images Folder
+│  └─  Readme images Folder
+├─ Notebooks Folder
+|  ├─  House.ipynb
+│  ├─  spamEmailsDetection.ipynb
+│  ├─  TextClustring.ipynb
+|  ├─  HousingData.csv
+|  ├─  spam_ham_dataset.csv
+│  └─  sarcasm.json
 └─ README.md
 ```
 
 ### Run the Project
 
-1. Install Python3 in your computer
+1. Install Python3 on your computer
 
 ```
 Download it from www.python.org/downloads/
